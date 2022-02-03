@@ -13,9 +13,9 @@
     <string name="welcome_agree">De acuerdo</string>
     <string name="welcome_content">Bienvenido a TheoTown!
 
-\n\nEsta aplicación está actualmente en desarrollo. Tenga en cuenta que puede haber todavía algunos pequeños errores. Por favor no nos de mala calificación por esos pequeños problemas. Tenga en cuenta que es gratis.
+\n\nEsta aplicación está actualmente en desarrollo. Tenga en cuenta que puede haber todavía algunos pequeños errores. Por favor no nos dé una mala calificación por esos pequeños problemas. Tenga en cuenta que es gratis.
 
-\n\n¿Te gusta esta aplicación? ¡Puedes apoyarnos compartiendola con tus amigos!
+\n\n¿Te gusta esta aplicación? ¡Puedes apoyarnos compartiéndola con tus amigos!
 
 \n\n¡Que te diviertas! :)</string>
     <string name="game_date">%1$02d/%2$02d/%3$02d</string>
@@ -179,12 +179,12 @@
     <string name="budget_park">Parques</string>
     <string name="budget_education">Educación</string>
     <string name="budget_firebrigade">Brigada de bomberos</string>
-    <string name="budget_police">Policias</string>
+    <string name="budget_police">Policías</string>
     <string name="budget_award">Regalos</string>
     <string name="budget_energy">Energía</string>
     <string name="budget_water">Agua</string>
     <string name="budget_public">Edificios públicos</string>
-    <string name="budget_medic">Medicos</string>
+    <string name="budget_medic">Médicos</string>
     <string name="ci_budget_overall">Total</string>
     <string name="ci_budget_income">Ingresos (por mes)</string>
     <string name="ci_budget_spending">Gastos (por mes)</string>
@@ -367,7 +367,7 @@
     <string name="draft_alert_police00_title">Llama a la policía</string>
     <string name="draft_alert_police00_text">Llama al cuerpo policial para detener a los criminales.</string>
     <string name="draft_alert_fire00_title">Llama a los bomberos</string>
-    <string name="draft_alert_fire00_text">Llama al cuerpo de bomberos si algo está ardiendo.</string>
+    <string name="draft_alert_fire00_text">Llama al cuerpo de bomberos si algo está en llamas.</string>
     <string name="draft_alert_medic00_title">Llama al doctor</string>
     <string name="draft_alert_medic00_text">Llama al doctor si te sientes mal.</string>
     <string name="buildinginfo_powerusage">Usado: %1$.01f%%</string>
@@ -486,15 +486,15 @@
     <string name="disaster_earthquake_text">Deja que el suelo se mueva.</string>
     <string name="disaster_earthquake_cmdtext">¡Sacudir!</string>
     <string name="disaster_illness_title">Enfermedad</string>
-    <string name="disaster_illness_text">La gente enferma ...</string>
+    <string name="disaster_illness_text">La gente se enferma...</string>
     <string name="disaster_illness_cmdtext">Virus</string>
     <string name="disaster_flooding_title">Inundación</string>
     <string name="disaster_flooding_text">Demasiada agua.</string>
-    <string name="disaster_flooding_cmdtext">Dejar de llover</string>
+    <string name="disaster_flooding_cmdtext">Inundar</string>
     <string name="buildinginfo_influences">Influencias</string>
     <string name="ci_loan_title">Préstamos</string>
     <string name="ci_loan_donate">Mendigar</string>
-    <string name="ci_loan_get">Prestamo</string>
+    <string name="ci_loan_get">Préstamo</string>
     <string name="ci_loan_donate_text">Por favor, dame un centavo, lo necesito tanto :(</string>
     <string name="draft_crater4x4_title">Cráter de meteorito</string>
     <string name="draft_crater4x4_text">Un enorme cráter de un meteoro, debes quitarlo.</string>
@@ -513,7 +513,7 @@
     <string name="settings_disaster_tornado">Tornado</string>
     <string name="disaster_tornado_title">Tornado</string>
     <string name="disaster_tornado_text">Los tornados son un gran peligro para la ciudad.</string>
-    <string name="disaster_tornado_cmdtext">Viento del lugar</string>
+    <string name="disaster_tornado_cmdtext">General</string>
     <string name="buildinginfo_untouchable">Intocable</string>
     <string name="draft_zoneresidential_lvl2_title">Zona residencial densa</string>
     <string name="draft_zoneresidential_lvl2_text">Una zona residencial con alta densidad.</string>
@@ -574,7 +574,7 @@
     <string name="influence_religion_text">La religión aumenta el atributo de los habitantes.</string>
     <string name="influence_sport_text">Mantiene a los habitantes sanos.</string>
     <string name="draftselector_cmdShow">Espectáculo</string>
-    <string name="ca_education_low_text">Educacion basica: %1$,d/%2$,d estudiantes</string>
+    <string name="ca_education_low_text">Educacion básica: %1$,d/%2$,d estudiantes</string>
     <string name="ca_education_high_text">Educación superior: %1$,d/%2$,d estudiantes</string>
     <string name="ca_health_text">Cuidado de la salud: %1$,d/%2$,d pacientes</string>
     <string name="gamemode_nomoney">Sin dinero</string>
@@ -720,7 +720,7 @@
     <string name="happiness_police">Policía</string>
     <string name="happiness_firedepartment">Bomberos</string>
     <string name="dialog_renameauthor_title">Renombrar al autor</string>
-    <string name="dialog_renameauthor_text">Introduce un nuevo autor.</string>
+    <string name="dialog_renameauthor_text">Introduce un nuevo nombre para el autor.</string>
     <string name="ci_general_authorname">Autor: %1$s</string>
     <string name="loadcity_author">Por %1$s</string>
     <string name="game_cityauthor">Por %1$s</string>
@@ -776,7 +776,7 @@
     <string name="draft_rnk_city_big_title">Ciudad</string>
     <string name="draft_rnk_city_medium_title">Ciudad mediana</string>
     <string name="draft_rnk_city_large_title">Ciudad grande</string>
-    <string name="draft_rnk_conurbation_title">Conurbano</string>
+    <string name="draft_rnk_conurbation_title">Conurbación</string>
     <string name="draft_rnk_city_small_title">Pequeña ciudad</string>
     <string name="draft_rnk_isolateddwelling_title">Vivienda aislada</string>
     <string name="draft_rnk_hamlet_title">Caseríos</string>
@@ -795,13 +795,13 @@
     <string name="about_thanks">Agradecimientos especiales a:</string>
     <string name="about_community">Y al resto de nuestra comunidad</string>
     <string name="dialog_tosandbox_cmdconvert">Caja de arena</string>
-    <string name="dialog_tosandbox_title">Caja de arena</string>
-    <string name="dialog_tosandbox_text">¿Convertir la ciudad en modo developer?\n\n¡Esto no se puede deshacer!</string>
+    <string name="dialog_tosandbox_title">Modo sandbox</string>
+    <string name="dialog_tosandbox_text">¿Deseas convertir la ciudad a modo sandbox?\n\n¡Esto no se puede deshacer!</string>
     <string name="requirement_rank">Se necesita %1$s (%2$,d)</string>
     <string name="ca_bodydisposal_text">Funeral: %1$,d/%2$,d</string>
     <string name="ca_wastedisposal_text">Depósito de basura: %1$,d/%2$,d</string>
     <string name="draftselector_titledecoration">Decoración</string>
-    <string name="draftselector_titlewastedisposal">Deposito de basura</string>
+    <string name="draftselector_titlewastedisposal">Depósito de basura</string>
     <string name="ci_rank_title">Rangos</string>
     <string name="draft_cemetery00_title">Cementerio</string>
     <string name="draft_crematory00_title">Crematorio</string>
@@ -920,7 +920,7 @@
     <string name="dialog_resetcity_text">¿Desea restablecer la ciudad a su estado original? Esto no se puede deshacer.</string>
     <string name="dialog_resetcity_cmdreset">Restablecer</string>
     <string name="draft_devroad01_title">Carretera Nacional de ida</string>
-    <string name="draft_devroad01_text">Carretera de un solo carril unico, construida y pagada por el estado.</string>
+    <string name="draft_devroad01_text">Carretera de un solo carril único, construida y pagada por el estado.</string>
     <string name="task_openworld_title">Región</string>
     <string name="task_openworld_text">Tu ciudad es sólo parte de algo más grande, aquí puedes ver todas las ciudades.</string>
     <string name="task_openrci_title">Demanda de construcción</string>
@@ -1015,7 +1015,7 @@
     <string name="draft_feature_buildings01_text">Grandes edificios residenciales, comerciales e industriales para mucha más variedad en la ciudad! Tambien aumenta el nivel de vida de sus habitantes!</string>
     <string name="dialog_diamondshop_recommended">Recomendado</string>
     <string name="dialog_presentdaily_title">Entrega diaria</string>
-    <string name="dialog_presentdaily_text">Tendrás más mañana.</string>
+    <string name="dialog_presentdaily_text">Podrás reclamar más mañana.</string>
     <string name="dialog_presentdaily_day">Día %1$,d</string>
     <string name="rank_needed_xp">Por lo menos %1$,d puntos de ciudad necesarios</string>
     <string name="settings_shortmoney">Abreviar dinero</string>
@@ -1025,7 +1025,7 @@
     <string name="dialog_editsign_text">Introduzca un nuevo texto para la etiqueta o elimínelo en absoluto.</string>
     <string name="dialog_editsign_delete">Borrar</string>
     <string name="draft_sign_tool_title">Etiqueta</string>
-    <string name="draft_sign_tool_text">Crear, editar y quitar etiquetas con esta herramienta.</string>
+    <string name="draft_sign_tool_text">Crea, edita y quita etiquetas con esta herramienta.</string>
     <string name="draft_feature_deco00_title">Decoraciones para plaza</string>
     <string name="draft_feature_deco00_text">Algunas decoraciones para la área comercial.</string>
     <string name="draft_feature_slowspeed00_title">Velocidad lenta</string>
@@ -1057,7 +1057,7 @@
     <string name="tut_start02">Toque en la pantalla para mover el mapa, puede hacer zoom con dos dedos.</string>
     <string name="tut_start03">Genial!, creo que ahora tienes algo de sensibilidad para los controles, así que podemos comenzar con su primera ciudad.</string>
     <string name="tut_build00">Qué conveniente, el Estado ya ha construido algunos caminos aquí para que podamos usarlos gratis.</string>
-    <string name="tut_build01">Vamos a declarar una zona residencial donde, la gente construirá casas por su cuenta.</string>
+    <string name="tut_build01">Vamos a declarar una zona residencial donde la gente construirá casas por su cuenta.</string>
     <string name="tut_build02">Mejor rodeamos la zona con algunas carreteras, la gente sólo construirá cerca de carreteras.</string>
     <string name="tut_build03">Ahora tenemos que esperar a que la gente se mude a nuestra ciudad.</string>
     <string name="tut_build030">Oye, ¿Qué pasa, parece que alguien no tiene energía?</string>
